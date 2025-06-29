@@ -25,7 +25,7 @@ const Skills = () => {
     {
       title: "Frontend",
       icon: Monitor,
-      skills: ["Vue.js", "JavaScript", "HTML5 & CSS3", "UI/UX Design","SEO"],
+      skills: ["Vue.js", "JavaScript", "HTML5 & CSS3", "UI/UX Design"],
       color: "from-pink-500 to-rose-500"
     },
     {
