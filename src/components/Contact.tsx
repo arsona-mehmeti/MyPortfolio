@@ -65,7 +65,7 @@ const Contact = () => {
           {/* Footer */}
           <div className="mt-16 pt-8 border-t border-gray-800">
             <p className="text-gray-500 text-sm">
-              © 2024 Arsona Mehmeti. Built with React & TypeScript.
+              © 2025 Arsona Mehmeti. Built with React & TypeScript.
             </p>
           </div>
         </div>
