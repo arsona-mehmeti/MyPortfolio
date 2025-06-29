@@ -24,7 +24,7 @@ const Projects = () => {
   const projects = [
     {
       title: "E-Voting System",
-      description: "Secure electronic voting platform with real-time results and admin dashboard built with Spring Boot.",
+      description: "Electronic voting platform with real-time results and admin dashboard built with Spring Boot.",
       tech: ["Java Spring Boot", "Thymeleaf", "PostgreSQL", "JavaScript"],
       github: "https://github.com/arsona-mehmeti/eVoting-System",
       demo: null,
