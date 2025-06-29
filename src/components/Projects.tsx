@@ -31,10 +31,10 @@ const Projects = () => {
       gradient: "from-pink-500 to-purple-600"
     },
     {
-      title: "Healthcare Platform",
+      title: "Healthcare Appointment Platform",
       description: "Comprehensive clinic management system with multi-role access control and patient management.",
       tech: ["Spring Boot", "Vue.js", "PostgreSQL", "JWT"],
-      github: "#",
+      github: "https://github.com/arsona-mehmeti/Healtcare-Appointment-System-Frontend",
       demo: null,
       gradient: "from-purple-500 to-indigo-600"
     },
