@@ -23,7 +23,7 @@ const Hero = ({ onScrollTo }: HeroProps) => {
           }`}>
             {/* Badge */}
             <div className="inline-flex items-center px-4 py-2 bg-pink-900/30 border border-pink-500/50 rounded-full text-pink-400 font-medium text-sm mb-6 hover:bg-pink-900/50 transition-colors duration-300">
-              Full Stack Developer
+              Software Developer
             </div>
 
             {/* Name */}

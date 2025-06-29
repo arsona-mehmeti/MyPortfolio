@@ -38,8 +38,7 @@ const Hero = ({ onScrollTo }: HeroProps) => {
             </p>
             
             <p className="text-lg text-gray-400 mb-8 leading-relaxed">
-              Passionate developer specializing in Java Spring Boot and Vue.js, focused on creating intuitive, user-centered applications.
-            </p>
+              Passionate developer who enjoys creating clean, user-friendly experiences that make a real difference. I focus on building intuitive solutions that are both functional and enjoyable to use.            </p>
 
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4">

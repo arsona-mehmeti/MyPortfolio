@@ -44,7 +44,7 @@ const Contact = () => {
           {/* CTA Button */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a
-              href="mailto:arsona.mehmeti@example.com"
+              href="mailto:aarsonamehmetii@example.com"
               className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-pink-500 to-purple-500 text-white font-semibold rounded-full hover:from-pink-600 hover:to-purple-600 transform hover:scale-105 hover:shadow-2xl hover:shadow-pink-500/25 transition-all duration-300"
             >
               <Mail className="mr-2 h-5 w-5" />
